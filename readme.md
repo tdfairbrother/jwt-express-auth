@@ -3,7 +3,7 @@ JWT User Authorization Middleware
 
 [![Build Status](https://travis-ci.org/tdfairbrother/jwt-express-auth.svg)](https://travis-ci.org/tdfairbrother/jwt-express-auth)
 
-[![Coverage Status](https://coveralls.io/repos/tdfairbrother/jwt-express-auth/badge.svg)](https://coveralls.io/r/tdfairbrother/jwt-express-auth)
+[![Coverage Status](https://coveralls.io/repos/tdfairbrother/jwt-express-auth/badge.svg?branch=master)](https://coveralls.io/r/tdfairbrother/jwt-express-auth?branch=master)
 
 
 Add the following to any params that require authorization.
