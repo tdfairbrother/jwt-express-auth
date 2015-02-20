@@ -14,8 +14,9 @@
     "jsonwebtoken": "^1.1.2"
   },
   "devDependencies": {
-    "istanbul": "^0.3.6",
+    "coveralls": "^2.11.2",
     "expect.js": "^0.3.1",
+    "istanbul": "^0.3.6",
     "mocha": "^2.0.1",
     "sinon": "^1.11.1"
   }
