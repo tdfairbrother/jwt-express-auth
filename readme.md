@@ -1,6 +1,11 @@
 JWT User Authorization Middleware
 =========
 
+[![Build Status](https://travis-ci.org/tdfairbrother/jwt-express-auth.svg)](https://travis-ci.org/tdfairbrother/jwt-express-auth)
+
+[![Coverage Status](https://coveralls.io/repos/tdfairbrother/jwt-express-auth/badge.svg)](https://coveralls.io/r/tdfairbrother/jwt-express-auth)
+
+
 Add the following to any params that require authorization.
 The tokenParam must match the name of the user_id in the jwt, not the route param.
 ```js

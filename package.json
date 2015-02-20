@@ -4,7 +4,7 @@
   "description": "Matches a jwt user token against a route param",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha test/*.js -R spec"
+    "test": "make test-coveralls"
   },
   "author": {
     "name": "Tim Fairbrother",
@@ -14,6 +14,7 @@
     "jsonwebtoken": "^1.1.2"
   },
   "devDependencies": {
+    "istanbul": "^0.3.6",
     "expect.js": "^0.3.1",
     "mocha": "^2.0.1",
     "sinon": "^1.11.1"
