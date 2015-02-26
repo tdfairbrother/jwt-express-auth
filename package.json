@@ -10,6 +10,10 @@
     "name": "Tim Fairbrother",
     "email": "tdfairbrother@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tdfairbrother/jwt-express-auth.git"
+  },
   "dependencies": {
     "jsonwebtoken": "^1.1.2"
   },

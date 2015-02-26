@@ -1,7 +1,7 @@
 JWT User Authorization Middleware
 =========
 
-[![Build Status](https://travis-ci.org/tdfairbrother/jwt-express-auth.svg)](https://travis-ci.org/tdfairbrother/jwt-express-auth)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/fd82885d-679d-46b0-9841-15abd67f356e/359593/badge.png)](https://semaphoreapp.com/tdfairbrother/jwt-express-auth)
 
 [![Coverage Status](https://coveralls.io/repos/tdfairbrother/jwt-express-auth/badge.svg?branch=master)](https://coveralls.io/r/tdfairbrother/jwt-express-auth?branch=master)
 
